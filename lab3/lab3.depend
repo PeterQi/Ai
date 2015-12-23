@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450875360 source:d:\users\peter\workspace\ai\lab3\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
