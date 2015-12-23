@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450858555 source:d:\users\peter\workspace\ai\lab2\lab2\main.cpp
+	<iostream>
+	<queue>
+	<stdlib.h>
+
